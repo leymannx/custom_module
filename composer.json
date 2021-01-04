@@ -1,0 +1,8 @@
+{
+    "name": "leymannx/custom_module",
+    "description": "This is a Custom Module with Different functionalities.",
+    "type": "drupal-module",
+    "require": {
+        "drupal/restui": "~1.16"
+    }
+}
